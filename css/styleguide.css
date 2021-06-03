@@ -1,0 +1,51 @@
+:root {
+  --black: #000000;
+  --candlelight: #ffdc0e;
+  --cararra: #ececec;
+  --fern: #65bf7f;
+  --jade: #00b274;
+  --persian-green: #00b19d;
+  --sunglow: #ffc740;
+  --wedgewood: #5175a5;
+  --white: #ffffff;
+  --yellow-orange: #fbaf41;
+
+  --font-size-l: 70px;
+  --font-size-m: 20px;
+  --font-size-s: 18px;
+  --font-size-xs: 16px;
+  --font-size-xxs: 14px;
+
+  --font-family-arial-bold: "Arial-Bold", Helvetica;
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-violet_sans: "Violet Sans", Helvetica;
+  --font-family-violetsans-regular: "VioletSans-Regular", Helvetica;
+}
+.violetsans-regular-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-violetsans-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+.violetsans-regular-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-violetsans-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.violetsans-regular-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-violetsans-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.violetsans-regular-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-violetsans-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}

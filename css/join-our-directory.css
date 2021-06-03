@@ -1,0 +1,194 @@
+/* screen - join-our-directory */
+
+.join-our-directory {
+  background-color: var(--cararra);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1071px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.join-our-directory .accessibilitysettings-C61RwL {
+  background-color: transparent;
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: fixed;
+  right: 40px;
+  text-align: center;
+  top: 54px;
+  white-space: nowrap;
+  width: 118px;
+}
+.join-our-directory .collaboration-i-to-support-res-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-violet_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 202px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: fixed;
+  text-align: left;
+  top: 141px;
+  width: 662px;
+}
+.join-our-directory .explore-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: fixed;
+  right: calc(26.10% - 19px);
+  text-align: left;
+  top: 117px;
+  white-space: nowrap;
+  width: 73px;
+}
+.join-our-directory .home-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: fixed;
+  right: calc(35.43% - 20px);
+  text-align: left;
+  top: 117px;
+  white-space: nowrap;
+  width: 57px;
+}
+.join-our-directory .join-our-directory-C61RwL {
+  background-color: transparent;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: fixed;
+  right: 212px;
+  text-align: left;
+  top: 117px;
+  white-space: nowrap;
+  width: 173px;
+}
+.join-our-directory .privacy-C61RwL {
+  background-color: transparent;
+  bottom: 17px;
+  height: 26px;
+  left: 279px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: fixed;
+  text-align: left;
+  white-space: nowrap;
+  width: 64px;
+}
+.join-our-directory .rectangle-203-C61RwL {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 1880px;
+  left: 510px;
+  position: fixed;
+  top: -390px;
+  transform: rotate(-90deg);
+  width: 900px;
+}
+.join-our-directory .rectangle-213-C61RwL {
+  background-color: transparent;
+  height: 80px;
+  object-fit: cover;
+  position: fixed;
+  right: 20px;
+  top: 40px;
+  width: 160px;
+}
+.join-our-directory .rectangle-215-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  object-fit: cover;
+  position: fixed;
+  right: 180px;
+  top: 100px;
+  width: 240px;
+}
+.join-our-directory .rectangle-216-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  object-fit: cover;
+  position: fixed;
+  right: calc(25.00% - 40px);
+  top: 100px;
+  width: 160px;
+}
+.join-our-directory .rectangle-217-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  object-fit: cover;
+  position: fixed;
+  right: calc(34.83% - 49px);
+  top: 100px;
+  width: 140px;
+}
+.join-our-directory .rectangle-232-C61RwL {
+  background-color: var(--white);
+  border-radius: 30px;
+  bottom: 11px;
+  height: 40px;
+  left: 20px;
+  position: fixed;
+  width: 220px;
+}
+.join-our-directory .rectangle-233-C61RwL {
+  background-color: var(--white);
+  border-radius: 30px;
+  bottom: 11px;
+  height: 40px;
+  left: 260px;
+  position: fixed;
+  width: 100px;
+}
+.join-our-directory .rectangle-256-C61RwL {
+  background-color: var(--cararra);
+  border-radius: 30px;
+  height: 221px;
+  left: 40px;
+  position: fixed;
+  top: 120px;
+  width: 700px;
+}
+.join-our-directory .span0-KXwTch {
+
+}
+.join-our-directory .span1-KXwTch {
+  text-decoration: underline;
+}
+.join-our-directory .span2-KXwTch {
+
+}
+.join-our-directory .ua-iog-1-c-solid-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 34px;
+  object-fit: cover;
+  position: fixed;
+  top: 20px;
+  width: 446px;
+}
+.join-our-directory .university-of-alberta-C61RwL {
+  background-color: transparent;
+  bottom: 17px;
+  height: 26px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: fixed;
+  text-align: left;
+  white-space: nowrap;
+  width: 176px;
+}
