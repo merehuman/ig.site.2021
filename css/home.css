@@ -11,489 +11,26 @@
   position: relative;
   width: 100%;
 }
-.home .accessibilitysettings-C61RwL {
-  background-color: transparent;
-  height: 54px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  position: fixed;
-  right: 40px;
-  text-align: center;
-  top: 55px;
-  white-space: nowrap;
-  width: 118px;
-}
-.home .activism-eif9kz {
-  background-color: transparent;
-  bottom: calc(47.96% - 11px);
-  height: 22px;
-  left: 8px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  text-align: left;
-  width: 72px;
-}
-.home .activism-fiiJqd {
-  background-color: transparent;
-  bottom: calc(46.94% - 10px);
-  color: var(--black);
-  font-family: var(--font-family-arial-regular);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 400;
-  height: 22px;
-  left: 10px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  text-align: left;
-  width: 63px;
-}
-.home .age-fiiJqd {
-  background-color: transparent;
-  bottom: calc(31.58% - 14px);
-  height: 44px;
-  left: 96px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  position: absolute;
-  text-align: left;
-  width: 32px;
-}
-.home .black-studies-fiiJqd {
-  background-color: transparent;
-  bottom: calc(32.20% - 20px);
-  height: 61px;
-  left: 150px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  text-align: center;
-  width: 63px;
-}
-.home .body-fiiJqd {
-  background-color: transparent;
-  bottom: calc(48.00% - 10px);
-  height: 20px;
-  left: calc(16.48% - 10px);
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  text-align: center;
-  width: 63px;
-}
-.home .canada-fiiJqd {
-  background-color: transparent;
-  bottom: calc(47.00% - 9px);
-  height: 20px;
-  left: calc(21.72% - 14px);
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  text-align: center;
-  width: 63px;
-}
-.home .class-fiiJqd {
-  background-color: transparent;
-  bottom: calc(47.00% - 9px);
-  height: 20px;
-  left: calc(27.08% - 14px);
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  text-align: center;
-  width: 50px;
-}
-.home .colonialism-fiiJqd {
-  background-color: transparent;
-  bottom: calc(41.57% - 13px);
-  height: 31px;
-  left: calc(32.54% - 30px);
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  text-align: center;
-  width: 92px;
-}
-.home .component-14-5-0bvxry {
-  background-color: transparent;
-  height: 120px;
-  left: 1px;
-  position: relative;
-  top: 0px;
-  width: 1400px;
-}
-.home .component-16-1-C61RwL {
-  background-color: transparent;
-  bottom: calc(49.95% - 30px);
-  height: 60px;
-  left: 20px;
-  position: fixed;
-  width: 80px;
-}
-.home .component-18-1-C61RwL {
-  background-color: transparent;
-  bottom: calc(45.64% - 18px);
-  cursor: pointer;
-  height: 39px;
-  left: calc(28.15% - 129px);
-  position: fixed;
-  width: 460px;
-}
-.home .component-20-1-fiiJqd {
-  background-color: transparent;
-  bottom: calc(47.50% - 38px);
-  height: 80px;
-  left: 0px;
-  pointer-events: auto;
-  position: absolute;
-  transition: all 0.2s ease;
-  width: 80px;
-}
-.home .component-20-1-fiiJqd:hover {
 
-transform: scale(1.1);
-}
-.home .component-24-1-C61RwL {
-  background-color: transparent;
-  bottom: calc(45.68% - 18px);
-  height: 40px;
-  position: fixed;
-  right: calc(48.79% - 88px);
-  width: 180px;
-}
-.home .component-25-1-C61RwL {
-  background-color: transparent;
-  bottom: calc(34.81% - 42px);
-  height: 120px;
-  left: calc(44.15% - 437px);
-  position: fixed;
-  width: 989px;
-}
-.home .culture-fiiJqd {
-  background-color: transparent;
-  bottom: calc(47.00% - 9px);
-  height: 20px;
-  left: calc(39.70% - 25px);
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  text-align: center;
-  width: 63px;
-}
-.home .decolonization-fiiJqd {
-  background-color: transparent;
-  bottom: calc(42.70% - 13px);
-  height: 31px;
-  left: calc(46.87% - 57px);
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  text-align: center;
-  width: 122px;
-}
-.home .disability-fiiJqd {
-  background-color: transparent;
-  bottom: calc(41.57% - 13px);
-  height: 31px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  right: calc(44.64% - 41px);
-  text-align: center;
-  width: 92px;
-}
-.home .diversity-fiiJqd {
-  background-color: transparent;
-  bottom: calc(41.57% - 13px);
-  height: 31px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  right: calc(36.98% - 34px);
-  text-align: center;
-  width: 92px;
-}
-.home .ellipse-20-fiiJqd {
-  background-color: var(--candlelight);
-  border-radius: 40px;
-  bottom: calc(47.50% - 38px);
-  height: 80px;
-  left: 0px;
-  position: absolute;
-  width: 80px;
-}
-.home .ellipse-21-fiiJqd {
-  background-color: var(--sunglow);
-  border-radius: 30px;
-  bottom: calc(48.33% - 29px);
-  height: 60px;
-  left: 80px;
-  position: absolute;
-  width: 60px;
-}
-.home .ellipse-22-fiiJqd {
-  background-color: var(--yellow-orange);
-  border-radius: 40px;
-  height: calc(100.00% - 40px);
-  left: 140px;
-  position: absolute;
-  top: 20px;
-  width: 80px;
-}
-.home .ellipse-23-fiiJqd {
-  background-color: var(--fern);
-  border-radius: 30px;
-  bottom: calc(48.33% - 29px);
-  height: 60px;
-  left: calc(16.44% - 10px);
-  position: absolute;
-  width: 60px;
-}
-.home .ellipse-24-fiiJqd {
-  background-color: var(--jade);
-  border-radius: 40px;
-  bottom: calc(45.00% - 36px);
-  height: 80px;
-  left: calc(21.24% - 17px);
-  position: absolute;
-  width: 80px;
-}
-.home .ellipse-25-fiiJqd {
-  background-color: var(--persian-green);
-  border-radius: 30px;
-  bottom: calc(45.00% - 27px);
-  height: 60px;
-  left: calc(26.91% - 16px);
-  position: absolute;
-  width: 60px;
-}
-.home .ellipse-26-fiiJqd {
-  background-color: var(--wedgewood);
-  border-radius: 50px;
-  height: calc(100.00% - 20px);
-  left: calc(32.36% - 32px);
-  position: absolute;
-  top: 11px;
-  width: 100px;
-}
-.home .ellipse-27-fiiJqd {
-  background-color: var(--candlelight);
-  border-radius: 40px;
-  bottom: calc(47.50% - 38px);
-  height: 80px;
-  left: calc(39.45% - 32px);
-  position: absolute;
-  width: 80px;
-}
-.home .ellipse-28-fiiJqd {
-  background-color: var(--sunglow);
-  border-radius: 60px;
-  height: 100%;
-  left: calc(46.79% - 56px);
-  position: absolute;
-  top: 0px;
-  width: 120px;
-}
-.home .ellipse-29-fiiJqd {
-  background-color: var(--yellow-orange);
-  border-radius: 50px;
-  height: calc(100.00% - 20px);
-  position: absolute;
-  right: calc(44.68% - 45px);
-  top: 11px;
-  width: 100px;
-}
-.home .ellipse-30-fiiJqd {
-  background-color: var(--fern);
-  border-radius: 50px;
-  height: calc(100.00% - 20px);
-  position: absolute;
-  right: calc(36.98% - 37px);
-  top: 11px;
-  width: 100px;
-}
-.home .ellipse-31-fiiJqd {
-  background-color: var(--jade);
-  border-radius: 60px;
-  height: 100%;
-  position: absolute;
-  right: calc(28.17% - 34px);
-  top: 0px;
-  width: 120px;
-}
-.home .ellipse-32-fiiJqd {
-  background-color: var(--persian-green);
-  border-radius: 30px;
-  height: 60px;
-  position: absolute;
-  right: calc(22.42% - 13px);
-  top: calc(50.00% - 30px);
-  width: 60px;
-}
-.home .ellipse-33-fiiJqd {
-  background-color: var(--wedgewood);
-  border-radius: 40px;
-  height: calc(100.00% - 40px);
-  position: absolute;
-  right: calc(16.69% - 13px);
-  top: 20px;
-  width: 80px;
-}
-.home .ellipse-34-fiiJqd {
-  background-color: var(--candlelight);
-  border-radius: 50px;
-  height: calc(100.00% - 20px);
-  position: absolute;
-  right: 120px;
-  top: 11px;
-  width: 100px;
-}
-.home .ellipse-35-fiiJqd {
-  background-color: var(--sunglow);
-  border-radius: 60px;
-  height: 100%;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 120px;
-}
-.home .ellipse-37-ho5URl {
-  background-color: var(--candlelight);
-  border-radius: 40px;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-.home .environment-fiiJqd {
-  background-color: transparent;
-  bottom: calc(42.70% - 13px);
-  height: 31px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  right: calc(28.43% - 28px);
-  text-align: center;
-  width: 100px;
-}
-.home .ethics-fiiJqd {
-  background-color: transparent;
-  bottom: calc(48.00% - 10px);
-  height: 20px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  right: calc(22.25% - 14px);
-  text-align: center;
-  width: 63px;
-}
-.home .explore-C61RwL {
-  background-color: transparent;
+#home-button {
+  color: white;
   cursor: pointer;
-  height: 28px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  position: fixed;
-  right: calc(26.10% - 19px);
-  text-align: left;
-  top: 117px;
-  white-space: nowrap;
-  width: 73px;
-}
-.home .family-fiiJqd {
-  background-color: transparent;
-  bottom: calc(49.00% - 10px);
-  height: 20px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
   position: absolute;
-  right: calc(17.00% - 11px);
   text-align: center;
-  width: 63px;
+  margin-left: 55px;
+  margin-top: 20px;
 }
-.home .feminism-fiiJqd {
-  background-color: transparent;
-  bottom: calc(42.70% - 13px);
+#explore-button {
+  color: white;
   cursor: pointer;
-  height: 31px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
   position: absolute;
-  right: 123px;
   text-align: center;
-  width: 92px;
+  margin-left: 55px;
+  margin-top: 20px;
 }
-.home .feminist-theory-film-fiiJqd {
+.info-button {
   background-color: transparent;
-  bottom: calc(40.58% - 21px);
-  height: 51px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  right: -2px;
-  text-align: center;
-  width: 122px;
-}
-.home .home-C61RwL {
-  background-color: transparent;
-  height: 28px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  position: fixed;
-  right: calc(35.43% - 20px);
-  text-align: left;
-  top: 117px;
-  white-space: nowrap;
-  width: 57px;
-}
-.home .icon-awesome-search-oAu8ee {
-  background-color: transparent;
-  height: 26px;
-  object-fit: cover;
-  position: absolute;
-  right: 20px;
-  top: calc(50.00% - 13px);
-  width: 26px;
-}
-.home .icon-ionic-ios-arrow-back-aB2xmo {
-  background-color: transparent;
-  bottom: calc(49.80% - 12px);
-  height: 24px;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  width: 14px;
-}
-.home .icon-ionic-ios-arrow-forward-aB2xmo {
-  background-color: transparent;
-  height: 24px;
-  object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: calc(49.80% - 12px);
-  width: 14px;
-}
-.home .info-MGHCiE {
-  background-color: transparent;
+  color: white;
   bottom: calc(46.88% - 13px);
   height: 28px;
   left: calc(47.73% - 17px);
@@ -504,172 +41,67 @@ transform: scale(1.1);
   white-space: nowrap;
   width: 36px;
 }
-.home .join-our-directory-C61RwL {
-  background-color: transparent;
+#join-our-directory-button {
+  color: white;
   cursor: pointer;
-  height: 28px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  position: fixed;
-  right: 212px;
-  text-align: left;
-  top: 117px;
-  white-space: nowrap;
-  width: 173px;
-}
-.home .or-by-keyword-5bVoI2 {
-  background-color: transparent;
-  height: 28px;
-  left: 20px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
   position: absolute;
-  text-align: left;
-  top: 8px;
-  white-space: nowrap;
-  width: 148px;
+  text-align: center;
+  margin-left: 15px;
+  margin-top: 20px;
 }
-.home .privacy-C61RwL {
+
+.or-by-keyword-button{
   background-color: transparent;
-  bottom: 16px;
-  height: 26px;
-  left: 279px;
-  letter-spacing: 0.00px;
-  line-height: 18px;
-  position: fixed;
-  text-align: left;
-  white-space: nowrap;
-  width: 64px;
-}
-.home .rectangle-117-oAu8ee {
-  background-color: var(--cararra);
-  border-radius: 50px;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-.home .rectangle-218-MGHCiE {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-.home .rectangle-234-C61RwL {
-  background-color: var(--white);
-  border-radius: 20px;
-  height: 1880px;
-  left: 510px;
-  position: fixed;
-  top: -390px;
-  transform: rotate(-90deg);
-  width: 900px;
-}
-.home .rectangle-235-C61RwL {
-  background-color: transparent;
-  height: 80px;
-  object-fit: cover;
-  position: fixed;
-  right: 20px;
-  top: 41px;
-  width: 160px;
-}
-.home .rectangle-236-C61RwL {
-  background-color: transparent;
-  height: 60px;
-  object-fit: cover;
-  position: fixed;
-  right: 180px;
-  top: 100px;
-  width: 240px;
-}
-.home .rectangle-237-C61RwL {
-  background-color: transparent;
-  height: 60px;
-  object-fit: cover;
-  position: fixed;
-  right: calc(25.00% - 40px);
-  top: 100px;
-  width: 160px;
-}
-.home .rectangle-238-C61RwL {
-  background-color: transparent;
-  height: 60px;
-  object-fit: cover;
-  position: fixed;
-  right: calc(34.83% - 49px);
-  top: 100px;
-  width: 140px;
-}
-.home .rectangle-239-C61RwL {
-  background-color: var(--white);
-  border-radius: 30px;
-  bottom: 10px;
-  height: 40px;
-  left: 20px;
-  position: fixed;
-  width: 220px;
-}
-.home .rectangle-240-C61RwL {
-  background-color: var(--white);
-  border-radius: 30px;
-  bottom: 10px;
-  height: 40px;
-  left: 260px;
-  position: fixed;
-  width: 100px;
-}
-.home .rectangle-242-5bVoI2 {
-  background-color: var(--cararra);
-  border-radius: 30px;
-  height: 40px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-.home .scroll-group-5-aB2xmo {
-  background-color: transparent;
-  height: 120px;
-  left: 34px;
-  mix-blend-mode: normal;
-  overflow-x: scroll;
-  position: absolute;
-  top: calc(50.00% - 60px);
-  width: calc(100.00% - 68px);
-}
-.home .scroll-group-5-aB2xmo::-webkit-scrollbar {
-  display: none;
-  width: 0;
-}
-.home .search-oAu8ee {
-  background-color: transparent;
-  bottom: calc(36.36% - 10px);
-  height: 28px;
-  left: 20px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
   position: absolute;
   text-align: left;
   white-space: nowrap;
-  width: 84px;
+  margin-top: 11px;
+  margin-left: 20px;
 }
-.home .search-the-inte-rd-search-below-C61RwL {
+.privacy-button {
+  color: black;
+  position: fixed;
+  text-align: center;
+  white-space: nowrap;
+  margin-top: 12px;
+  margin-left: 25px;
+}
+#accessibilitysettings-button {
+  background-color: transparent;
+  color: black;
+  position: fixed;
+  text-align: center;
+  margin-left: 33px;
+  margin-top: 20px;
+}
+.university-of-alberta-button {
+  color: black;
+  position: fixed;
+  text-align: center;
+  white-space: nowrap;
+  margin-top: 12px;
+  margin-left: 25px;
+}
+.search-bar-text {
+  background-color: transparent;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  margin-top: 11px;
+  margin-left: 20px;
+}
+.search-text {
   background-color: transparent;
   height: 53px;
   left: calc(34.31% - 248px);
   letter-spacing: 0.00px;
-  line-height: 16px;
+  line-height: 20px;
   position: fixed;
   text-align: left;
   top: calc(49.12% - 26px);
   width: 722px;
 }
-.home .title-C61RwL {
+.title {
   background-color: transparent;
   color: var(--black);
   font-family: var(--font-family-arial-bold);
@@ -686,7 +118,48 @@ transform: scale(1.1);
   white-space: nowrap;
   width: 724px;
 }
-.home .ua-iog-1-c-solid-C61RwL {
+
+
+
+
+
+a:visited {
+  color: white;
+  text-decoration: underline;
+}
+
+
+
+
+
+.icon-search {
+  background-color: transparent;
+  height: 26px;
+  object-fit: cover;
+  position: absolute;
+  right: 20px;
+  top: calc(50.00% - 13px);
+  width: 26px;
+}
+.icon-arrow-back {
+  background-color: transparent;
+  bottom: calc(49.80% - 12px);
+  height: 24px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+.icon-arrow-forward {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: calc(49.80% - 12px);
+  width: 14px;
+}
+.ua-logo {
   background-color: transparent;
   height: 60px;
   left: 34px;
@@ -695,15 +168,540 @@ transform: scale(1.1);
   top: 21px;
   width: 446px;
 }
-.home .university-of-alberta-C61RwL {
+
+
+
+
+.scroll-group-5 {
   background-color: transparent;
-  bottom: 16px;
-  height: 26px;
-  left: 43px;
-  letter-spacing: 0.00px;
-  line-height: 18px;
-  position: fixed;
-  text-align: left;
-  white-space: nowrap;
-  width: 176px;
+  height: 150px;
+  left: 34px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: calc(50.00% - 60px);
+  width: calc(100.00% - 68px);
 }
+.scroll-group-5::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+
+
+
+
+.component-14-5{
+  background-color: transparent;
+  height: 120px;
+  left: 1px;
+  position: relative;
+  top: 0px;
+  width: 1400px;
+}
+.component-16-1 {
+  background-color: transparent;
+  bottom: calc(49.95% - 30px);
+  height: 60px;
+  left: 20px;
+  position: fixed;
+  width: 80px;
+}
+.component-18-1 {
+  background-color: transparent;
+  bottom: calc(45.68% - 18px);
+  cursor: pointer;
+  height: 40px;
+  left: 23%;
+  position: fixed;
+  width: 460px;
+}
+.component-20-1 {
+  background-color: transparent;
+  bottom: calc(47.50% - 38px);
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  width: 80px;
+}
+.component-24-1 {
+  background-color: transparent;
+  bottom: calc(45.68% - 18px);
+  height: 40px;
+  position: fixed;
+  left: calc(23% + 460px);
+  width: 150px;
+}
+.component-25-1 {
+  background-color: transparent;
+  bottom: calc(34.81% - 42px);
+  height: 120px;
+  left: calc(44.15% - 437px);
+  position: fixed;
+  width: 989px;
+}
+
+
+
+
+.rectangle-117 {
+  background-color: var(--cararra);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.rectangle-218 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.rectangle-234 {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 82.5%;
+  width: 97.9%;
+  margin: 100px 20px 20px 20px;
+  position: fixed;
+}
+.rectangle-235 {
+  background-color: white;
+  height: 80px;
+  object-fit: cover;
+  position: fixed;
+  right: 20px;
+  top: 41px;
+  width: 160px;
+  border-radius: 20px 20px 0px 0px;
+}
+.rectangle-236 {
+  background-color: black;
+  height: 60px;
+  object-fit: cover;
+  position: fixed;
+  right: 180px;
+  top: 100px;
+  width: 160px;
+  border-radius: 0px 0px 20px 20px;
+}
+.rectangle-237 {
+  background-color: black;
+  height: 60px;
+  object-fit: cover;
+  position: fixed;
+  right: 350px;
+  top: 100px;
+  width: 160px;
+  border-radius: 0px 0px 20px 20px;
+}
+.rectangle-238 {
+  background-color: black;
+  height: 60px;
+  object-fit: cover;
+  position: fixed;
+  right: 520px;
+  top: 100px;
+  width: 160px;
+  border-radius: 0px 0px 20px 20px;
+}
+.rectangle-239 {
+  background-color: var(--white);
+  border-radius: 20px;
+  bottom: 10px;
+  height: 40px;
+  left: 20px;
+  position: fixed;
+  width: 200px;
+}
+.rectangle-240 {
+  background-color: var(--white);
+  border-radius: 20px;
+  bottom: 10px;
+  height: 40px;
+  left: 220px;
+  position: fixed;
+  width: 100px;
+}
+.rectangle-242 {
+  background-color: var(--cararra);
+  border-radius: 20px;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+
+
+
+.ellipse-20 {
+  background-color: var(--candlelight);
+  border-radius: 40px;
+  bottom: calc(47.50% - 38px);
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  width: 80px;
+}
+.ellipse-21 {
+  background-color: var(--sunglow);
+  border-radius: 30px;
+  bottom: calc(48.33% - 29px);
+  height: 60px;
+  left: 80px;
+  position: absolute;
+  width: 60px;
+}
+.ellipse-22 {
+  background-color: var(--yellow-orange);
+  border-radius: 40px;
+  height: calc(100.00% - 40px);
+  left: 140px;
+  position: absolute;
+  top: 20px;
+  width: 80px;
+}
+.ellipse-23{
+  background-color: var(--fern);
+  border-radius: 30px;
+  bottom: calc(48.33% - 29px);
+  height: 60px;
+  left: calc(16.44% - 10px);
+  position: absolute;
+  width: 60px;
+}
+.ellipse-24 {
+  background-color: var(--jade);
+  border-radius: 40px;
+  bottom: calc(45.00% - 36px);
+  height: 80px;
+  left: calc(21.24% - 17px);
+  position: absolute;
+  width: 80px;
+}
+.ellipse-25 {
+  background-color: var(--persian-green);
+  border-radius: 30px;
+  bottom: calc(45.00% - 27px);
+  height: 60px;
+  left: calc(26.91% - 16px);
+  position: absolute;
+  width: 60px;
+}
+.ellipse-26 {
+  background-color: var(--wedgewood);
+  border-radius: 50px;
+  height: calc(100.00% - 20px);
+  left: calc(32.36% - 32px);
+  position: absolute;
+  top: 11px;
+  width: 100px;
+}
+.ellipse-27{
+  background-color: var(--candlelight);
+  border-radius: 40px;
+  bottom: calc(47.50% - 38px);
+  height: 80px;
+  left: calc(39.45% - 32px);
+  position: absolute;
+  width: 80px;
+}
+.ellipse-28 {
+  background-color: var(--sunglow);
+  border-radius: 60px;
+  height: 100%;
+  left: calc(46.79% - 56px);
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+.ellipse-29 {
+  background-color: var(--yellow-orange);
+  border-radius: 50px;
+  height: calc(100.00% - 20px);
+  position: absolute;
+  right: calc(44.68% - 45px);
+  top: 11px;
+  width: 100px;
+}
+.ellipse-30 {
+  background-color: var(--fern);
+  border-radius: 50px;
+  height: calc(100.00% - 20px);
+  position: absolute;
+  right: calc(36.98% - 37px);
+  top: 11px;
+  width: 100px;
+}
+.ellipse-31 {
+  background-color: var(--jade);
+  border-radius: 60px;
+  height: 100%;
+  position: absolute;
+  right: calc(28.17% - 34px);
+  top: 0px;
+  width: 120px;
+}
+.ellipse-32 {
+  background-color: var(--persian-green);
+  border-radius: 30px;
+  height: 60px;
+  position: absolute;
+  right: calc(22.42% - 13px);
+  top: calc(50.00% - 30px);
+  width: 60px;
+}
+.ellipse-33 {
+  background-color: var(--wedgewood);
+  border-radius: 40px;
+  height: calc(100.00% - 40px);
+  position: absolute;
+  right: calc(16.69% - 13px);
+  top: 20px;
+  width: 80px;
+}
+.ellipse-34{
+  background-color: var(--candlelight);
+  border-radius: 50px;
+  height: calc(100.00% - 20px);
+  position: absolute;
+  right: 120px;
+  top: 11px;
+  width: 100px;
+}
+.ellipse-35 {
+  background-color: var(--sunglow);
+  border-radius: 60px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 120px;
+}
+.ellipse-37 {
+  background-color: var(--candlelight);
+  border-radius: 40px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 20px;
+  height: 80px;
+  width: 80px;
+}
+.ellipse-21:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
+}
+
+
+
+
+.activism {
+  background-color: transparent;
+  bottom: calc(46.94% - 10px);
+  color: var(--black);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  width: 63px;
+  z-index: 1;
+}
+.age {
+  background-color: transparent;
+  bottom: calc(31.58% - 14px);
+  height: 44px;
+  left: 96px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: 32px;
+}
+.black-studies {
+  background-color: transparent;
+  bottom: calc(32.20% - 20px);
+  height: 61px;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  width: 63px;
+}
+.body {
+  background-color: transparent;
+  bottom: calc(48.00% - 10px);
+  height: 20px;
+  left: calc(16.48% - 10px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  width: 63px;
+}
+.canada {
+  background-color: transparent;
+  bottom: calc(47.00% - 9px);
+  height: 20px;
+  left: calc(21.72% - 14px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  width: 63px;
+}
+.class {
+  background-color: transparent;
+  bottom: calc(47.00% - 9px);
+  height: 20px;
+  left: calc(27.08% - 14px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  width: 50px;
+}
+.colonialism {
+  background-color: transparent;
+  bottom: calc(41.57% - 13px);
+  height: 31px;
+  left: calc(32.54% - 30px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  width: 92px;
+}
+.culture {
+  background-color: transparent;
+  bottom: calc(47.00% - 9px);
+  height: 20px;
+  left: calc(39.70% - 25px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  width: 63px;
+}
+.decolonization {
+  background-color: transparent;
+  bottom: calc(42.70% - 13px);
+  height: 31px;
+  left: calc(46.87% - 57px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  width: 122px;
+}
+.disability {
+  background-color: transparent;
+  bottom: calc(41.57% - 13px);
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(44.64% - 41px);
+  text-align: center;
+  width: 92px;
+}
+.diversity {
+  background-color: transparent;
+  bottom: calc(41.57% - 13px);
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(36.98% - 34px);
+  text-align: center;
+  width: 92px;
+}
+.environment{
+  background-color: transparent;
+  bottom: calc(42.70% - 13px);
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(28.43% - 28px);
+  text-align: center;
+  width: 100px;
+}
+.ethics{
+  background-color: transparent;
+  bottom: calc(48.00% - 10px);
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(22.25% - 14px);
+  text-align: center;
+  width: 63px;
+}
+.family {
+  background-color: transparent;
+  bottom: calc(49.00% - 10px);
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(17.00% - 11px);
+  text-align: center;
+  width: 63px;
+}
+.feminism {
+  background-color: transparent;
+  bottom: calc(42.70% - 13px);
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  right: 123px;
+  text-align: center;
+  width: 92px;
+}
+.feminist-theory-film{
+  background-color: transparent;
+  bottom: calc(40.58% - 21px);
+  height: 51px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  overflow: hidden;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  width: 122px;
+}
+

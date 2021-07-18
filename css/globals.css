@@ -14,6 +14,10 @@
   src: url("https://anima-uploads.s3.amazonaws.com/5c58c99ae21217000c4e869b/arial.otf") format("opentype");
 }
 
+body {
+  font-family: "Arial-Regular";
+}
+
 * {
   box-sizing: border-box;
 }
