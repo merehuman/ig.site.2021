@@ -2,20 +2,12 @@
 
 .home {
   background-color: var(--cararra);
-  height: 100vh;
-  margin: 0px;
-  min-height: 1071px;
-  min-width: 1920px;
-  overflow: hidden;
-  overflow-x: hidden;
-  position: relative;
-  width: 100%;
 }
 
 #home-button {
   color: white;
   cursor: pointer;
-  position: absolute;
+  position: fixed;
   text-align: center;
   margin-left: 55px;
   margin-top: 20px;
@@ -23,36 +15,31 @@
 #explore-button {
   color: white;
   cursor: pointer;
-  position: absolute;
+  position: fixed;
   text-align: center;
   margin-left: 55px;
   margin-top: 20px;
 }
 .info-button {
-  background-color: transparent;
   color: white;
-  bottom: calc(46.88% - 13px);
-  height: 28px;
-  left: calc(47.73% - 17px);
+  bottom: 49%;
+  left: 2%;
   letter-spacing: 0.00px;
   line-height: 20px;
-  position: absolute;
+  position: fixed;
   text-align: center;
-  white-space: nowrap;
-  width: 36px;
 }
 #join-our-directory-button {
   color: white;
   cursor: pointer;
-  position: absolute;
+  position: fixed;
   text-align: center;
   margin-left: 15px;
   margin-top: 20px;
 }
-
 .or-by-keyword-button{
   background-color: transparent;
-  position: absolute;
+  position: fixed;
   text-align: left;
   white-space: nowrap;
   margin-top: 11px;
@@ -84,7 +71,7 @@
 }
 .search-bar-text {
   background-color: transparent;
-  position: absolute;
+  position: fixed;
   text-align: left;
   white-space: nowrap;
   margin-top: 11px;
@@ -93,13 +80,13 @@
 .search-text {
   background-color: transparent;
   height: 53px;
-  left: calc(34.31% - 248px);
+  left: 23%;
+  top: 45%;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: fixed;
   text-align: left;
-  top: calc(49.12% - 26px);
-  width: 722px;
+  width: 640px;
 }
 .title {
   background-color: transparent;
@@ -108,15 +95,12 @@
   font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 700;
-  height: 150px;
-  left: calc(34.36% - 249px);
-  letter-spacing: 0.00px;
+  left: 23%;
   line-height: 70px;
   position: fixed;
   text-align: left;
-  top: calc(38.00% - 57px);
+  top: 30%;
   white-space: nowrap;
-  width: 724px;
 }
 
 
@@ -182,16 +166,71 @@ a:visited {
   top: calc(50.00% - 60px);
   width: calc(100.00% - 68px);
 }
-.scroll-group-5::-webkit-scrollbar {
+.scroll-group-5:-webkit-scrollbar {
   display: none;
   width: 0;
+}
+.scrolling {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+  position: fixed;
+  height: 150px;
+  width: 50%;
+  left: 23%;
+  top: 59%;
+}
+#inline-scrolling {
+  display: inline-block;
+}
+.text {
+  color: black;
+  text-align: center;
+  position: relative;
+  word-break: break-word;
+  bottom: 55px;
+}
+.e-1, .e-2, .e-3, .e-4, .e-5, .e-6, .e-7, .e-8, .e-9, .e-10, .e-11, .e-12, .e-13, .e-14, .e-15, .e-16, .e-17, .e-18, .e-19, .e-20, .e-21, .e-22, .e-23, .e-24, .e-25, .e-26, .e-27, .e-28, .e-29, .e-30, .e-31, .e-32, .e-33, .e-34, .e-35, .e-36, .e-37, .e-38, .e-39, .e-40, .e-41, .e-42, .e-43, .e-44, .e-45, .e-46, .e-47, .e-48, .e-49, .e-50, .e-51, .e-52, .e-53, .e-54, .e-55 {
+  position: relative;
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+}
+.e-1, .e-8, .e-15, .e-22, .e-29, .e-36, .e-43, .e-50 {
+  background-color: var(--candlelight);
+}
+.e-2, .e-9, .e-16, .e-23, .e-30, .e-37, .e-44, .e-51 {
+  background-color: var(--sunglow);
+}
+.e-3, .e-10, .e-17, .e-24, .e-31, .e-38, .e-45, .e-52 {
+  background-color: var(--yellow-orange);
+}
+.e-4, .e-11, .e-18, .e-25, .e-32, .e-39, .e-46, .e-53 {
+  background-color: var(--fern);
+}
+.e-5, .e-12, .e-19, .e-26, .e-33, .e-40, .e-47, .e-54 {
+  background-color: var(--jade);
+}
+.e-6, .e-13, .e-20, .e-27, .e-34, .e-41, .e-48, .e-55 {
+  background-color: var(--persian-green);
+}
+.e-7, .e-14, .e-21, .e-28, .e-35, .e-42, .e-49 {
+  background-color: var(--wedgewood);
+}
+.e-1:hover, .e-2:hover, .e-3:hover, .e-4:hover, .e-5:hover, .e-6:hover, .e-7:hover, .e-8:hover, .e-9:hover, .e-10:hover, .e-11:hover, .e-12:hover, .e-13:hover, .e-14:hover, .e-15:hover, .e-16:hover, .e-17:hover, .e-18:hover, .e-19:hover, .e-20:hover, .e-21:hover, .e-22:hover, .e-23:hover, .e-24:hover, .e-25:hover, .e-26:hover, .e-27:hover, .e-28:hover, .e-29:hover, .e-30:hover, .e-31:hover, .e-32:hover, .e-33:hover, .e-34:hover, .e-35:hover, .e-36:hover, .e-37:hover, .e-38:hover, .e-39:hover, .e-40:hover, .e-41:hover, .e-42:hover, .e-43:hover, .e-44:hover, .e-45:hover, .e-46:hover, .e-47:hover, .e-48:hover, .e-49:hover, .e-50:hover, .e-51:hover, .e-52:hover, .e-53:hover, .e-54:hover, .e-55:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
 }
 
 
 
 
 
-.component-14-5{
+.component-14-5 {
   background-color: transparent;
   height: 120px;
   left: 1px;
@@ -339,27 +378,21 @@ a:visited {
 }
 
 
-
-
-.ellipse-20 {
-  background-color: var(--candlelight);
-  border-radius: 40px;
-  bottom: calc(47.50% - 38px);
-  height: 80px;
-  left: 0px;
-  position: absolute;
-  width: 80px;
-}
-.ellipse-21 {
+/*.ellipse-21 {
   background-color: var(--sunglow);
   border-radius: 30px;
-  bottom: calc(48.33% - 29px);
   height: 60px;
-  left: 80px;
-  position: absolute;
+  position: relative;
   width: 60px;
 }
-.ellipse-22 {
+.ellipse-21:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
+}*/
+/*.ellipse-22 {
   background-color: var(--yellow-orange);
   border-radius: 40px;
   height: calc(100.00% - 40px);
@@ -368,7 +401,14 @@ a:visited {
   top: 20px;
   width: 80px;
 }
-.ellipse-23{
+.ellipse-22:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
+}
+.ellipse-23 {
   background-color: var(--fern);
   border-radius: 30px;
   bottom: calc(48.33% - 29px);
@@ -376,6 +416,13 @@ a:visited {
   left: calc(16.44% - 10px);
   position: absolute;
   width: 60px;
+}
+.ellipse-23:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
 }
 .ellipse-24 {
   background-color: var(--jade);
@@ -386,6 +433,13 @@ a:visited {
   position: absolute;
   width: 80px;
 }
+.ellipse-24:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
+}
 .ellipse-25 {
   background-color: var(--persian-green);
   border-radius: 30px;
@@ -394,6 +448,13 @@ a:visited {
   left: calc(26.91% - 16px);
   position: absolute;
   width: 60px;
+}
+.ellipse-25:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
 }
 .ellipse-26 {
   background-color: var(--wedgewood);
@@ -404,6 +465,13 @@ a:visited {
   top: 11px;
   width: 100px;
 }
+.ellipse-26:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
+}
 .ellipse-27{
   background-color: var(--candlelight);
   border-radius: 40px;
@@ -412,6 +480,13 @@ a:visited {
   left: calc(39.45% - 32px);
   position: absolute;
   width: 80px;
+}
+.ellipse-27:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
 }
 .ellipse-28 {
   background-color: var(--sunglow);
@@ -422,6 +497,13 @@ a:visited {
   top: 0px;
   width: 120px;
 }
+.ellipse-28:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
+}
 .ellipse-29 {
   background-color: var(--yellow-orange);
   border-radius: 50px;
@@ -430,6 +512,13 @@ a:visited {
   right: calc(44.68% - 45px);
   top: 11px;
   width: 100px;
+}
+.ellipse-29:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
 }
 .ellipse-30 {
   background-color: var(--fern);
@@ -440,6 +529,13 @@ a:visited {
   top: 11px;
   width: 100px;
 }
+.ellipse-30:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
+}
 .ellipse-31 {
   background-color: var(--jade);
   border-radius: 60px;
@@ -448,6 +544,13 @@ a:visited {
   right: calc(28.17% - 34px);
   top: 0px;
   width: 120px;
+}
+.ellipse-31:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
 }
 .ellipse-32 {
   background-color: var(--persian-green);
@@ -458,6 +561,13 @@ a:visited {
   top: calc(50.00% - 30px);
   width: 60px;
 }
+.ellipse-32:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
+}
 .ellipse-33 {
   background-color: var(--wedgewood);
   border-radius: 40px;
@@ -466,6 +576,13 @@ a:visited {
   right: calc(16.69% - 13px);
   top: 20px;
   width: 80px;
+}
+.ellipse-33:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
 }
 .ellipse-34{
   background-color: var(--candlelight);
@@ -476,6 +593,13 @@ a:visited {
   top: 11px;
   width: 100px;
 }
+.ellipse-34:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
+}
 .ellipse-35 {
   background-color: var(--sunglow);
   border-radius: 60px;
@@ -484,6 +608,30 @@ a:visited {
   right: 0px;
   top: 0px;
   width: 120px;
+}
+.ellipse-35:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
+}
+.ellipse-36 {
+  background-color: var(--candlelight);
+  border-radius: 40px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 20px;
+  height: 80px;
+  width: 80px;
+}
+.ellipse-36:hover {
+  transform: scale(1.3);
+  opacity: 80%;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  z-index: 1;
 }
 .ellipse-37 {
   background-color: var(--candlelight);
@@ -495,45 +643,23 @@ a:visited {
   height: 80px;
   width: 80px;
 }
-.ellipse-21:hover {
+.ellipse-37:hover {
   transform: scale(1.3);
   opacity: 80%;
   pointer-events: auto;
   transition: all 0.2s ease;
   z-index: 1;
-}
+}*/
 
 
 
 
-.activism {
-  background-color: transparent;
-  bottom: calc(46.94% - 10px);
-  color: var(--black);
-  font-family: var(--font-family-arial-regular);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 400;
-  height: 22px;
-  left: 10px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  overflow: hidden;
-  position: absolute;
-  text-align: left;
-  width: 63px;
-  z-index: 1;
-}
-.age {
-  background-color: transparent;
-  bottom: calc(31.58% - 14px);
-  height: 44px;
-  left: 96px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  position: absolute;
-  text-align: left;
-  width: 32px;
+
+
+/*.age {
+  color: black;
+  position: fixed;
+  text-align: center;
 }
 .black-studies {
   background-color: transparent;
@@ -546,6 +672,7 @@ a:visited {
   position: absolute;
   text-align: center;
   width: 63px;
+  z-index: 1;
 }
 .body {
   background-color: transparent;
@@ -558,6 +685,7 @@ a:visited {
   position: absolute;
   text-align: center;
   width: 63px;
+  z-index: 1;
 }
 .canada {
   background-color: transparent;
@@ -570,6 +698,7 @@ a:visited {
   position: absolute;
   text-align: center;
   width: 63px;
+  z-index: 1;
 }
 .class {
   background-color: transparent;
@@ -582,6 +711,7 @@ a:visited {
   position: absolute;
   text-align: center;
   width: 50px;
+  z-index: 1;
 }
 .colonialism {
   background-color: transparent;
@@ -594,6 +724,7 @@ a:visited {
   position: absolute;
   text-align: center;
   width: 92px;
+  z-index: 1;
 }
 .culture {
   background-color: transparent;
@@ -606,6 +737,7 @@ a:visited {
   position: absolute;
   text-align: center;
   width: 63px;
+  z-index: 1;
 }
 .decolonization {
   background-color: transparent;
@@ -618,6 +750,7 @@ a:visited {
   position: absolute;
   text-align: center;
   width: 122px;
+  z-index: 1;
 }
 .disability {
   background-color: transparent;
@@ -630,6 +763,7 @@ a:visited {
   right: calc(44.64% - 41px);
   text-align: center;
   width: 92px;
+  z-index: 1;
 }
 .diversity {
   background-color: transparent;
@@ -642,6 +776,7 @@ a:visited {
   right: calc(36.98% - 34px);
   text-align: center;
   width: 92px;
+  z-index: 1;
 }
 .environment{
   background-color: transparent;
@@ -654,6 +789,7 @@ a:visited {
   right: calc(28.43% - 28px);
   text-align: center;
   width: 100px;
+  z-index: 1;
 }
 .ethics{
   background-color: transparent;
@@ -666,6 +802,7 @@ a:visited {
   right: calc(22.25% - 14px);
   text-align: center;
   width: 63px;
+  z-index: 1;
 }
 .family {
   background-color: transparent;
@@ -678,6 +815,7 @@ a:visited {
   right: calc(17.00% - 11px);
   text-align: center;
   width: 63px;
+  z-index: 1;
 }
 .feminism {
   background-color: transparent;
@@ -691,6 +829,7 @@ a:visited {
   right: 123px;
   text-align: center;
   width: 92px;
+  z-index: 1;
 }
 .feminist-theory-film{
   background-color: transparent;
@@ -703,5 +842,7 @@ a:visited {
   right: -2px;
   text-align: center;
   width: 122px;
+  z-index: 1;
 }
 
+*/
