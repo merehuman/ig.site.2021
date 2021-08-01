@@ -9,7 +9,9 @@
     <link rel="stylesheet" type="text/css" href="css/home.css" />
     <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
     <link rel="stylesheet" type="text/css" href="css/globals.css" />
-    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+    <Title>IG - Researcher Directory</Title>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   </head>
 
 
@@ -38,6 +40,7 @@
 <!-- BODY CONTENT -->
 <div class="background-white">
 
+
   <div class="navigationalmenu">
 
       <div class="home-rectangle">
@@ -54,6 +57,18 @@
       </div>   
   </div>
 
+      <div  id="opener2"><img class="question-icon" src="img/icon-awesome-question-circle@1x.png" /></div>
+      <div id="dialog2" title="How to search">
+       After using the search bar or interactive keyword search, your search parameters will show up on the left hand side of the screen. You can continue to filter your search by position, faculty, and self-identification. At any point, you can exit out of any given search parameter on the left by clicking on the x. To completely reset your search parameters, click the reset button. 
+      </div>
+
+      <script>
+        $( "#dialog2" ).dialog({ autoOpen: false });
+        $( "#opener2" ).click(function() {
+        $( "#dialog2" ).dialog( "open" );
+        });
+      </script>
+
 <!-- SEARCH RESULT FILTERS -->
 <div class="left-content">
       <div class="reset-text">RESET</div>
@@ -61,7 +76,6 @@
       <div class="position-text">Position</div>
       <div class="faculty-text">Faculty</div>
       <div class="selfidentification-text">Self-Identification</div>
-      <img class="question-icon" src="img/icon-awesome-question-circle@1x.png" />
       <br>
 
 <!-- CURRENT FILTERS -->
@@ -317,18 +331,26 @@
     <div class="e-55">Work</div>
   </div>
           
-          </div>
+  </div>
 
 
-      </div>
 </div>
+
 <!-- END RIGHT CONTENT -->
 
-      <div class="info-rectangle-explore">
-        <div class="info-button">Info</div>
+      <div class="info-rectangle-explore" id="opener">info</div>
+      <div id="dialog" title="Info">
+       There are more than 250 researchers at University of Alberta doing intersectional gender research, working on collaborations, and engaging our communities. Use this page to explore our database to find collaborators or supervisors, discover research related to your own, find expert opinions, seek mentorship, and otherwise build community among intersectional gender researchers on campus.  
       </div>
 
+      <script>
+        $( "#dialog" ).dialog({ autoOpen: false });
+        $( "#opener" ).click(function() {
+        $( "#dialog" ).dialog( "open" );
+        });
+      </script>
 
+</div>
 <!-- FOOTER -->
 <footer class="footer">
       <div class="uofa-rectangle">

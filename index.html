@@ -9,7 +9,9 @@
     <link rel="stylesheet" type="text/css" href="css/home.css" />
     <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
     <link rel="stylesheet" type="text/css" href="css/globals.css" />
-    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+    <Title>IG - Researcher Directory</Title>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   </head>
 
 <body>
@@ -54,7 +56,23 @@
   </div>
 
 
-      <div class="info-rectangle">Info</div>
+
+      <div class="info-rectangle" id="opener">info</div>
+      <div id="dialog" title="Info">
+        Intersections of Gender is committed to using intersectional experience and excellence to build and sustain for the public good and to bring together wide-ranging initiatives to advance knowledge and inspire engaged citizenship around the world. 
+        <br>
+        <a href="https://www.ualberta.ca/intersections-gender/index.html" target="_blank"><u>Learn more about IG</u></a>
+        <br><br>
+        This database features faculty, instructors and students at University of Alberta doing work at the intersections of gender. The database contains profiles for more than 250 researchers. 
+      </div>
+
+      <script>
+        $( "#dialog" ).dialog({ autoOpen: false });
+        $( "#opener" ).click(function() {
+        $( "#dialog" ).dialog( "open" );
+        });
+  </script>
+
 
           
   <!--     HOME SCREEN CONTENT -->
@@ -313,5 +331,10 @@
         <a href="https://www.ualberta.ca/privacy.html" target="_blank">Privacy</a>
       </div>
 </footer>
+
+
+
+
+
   </body>
 </html>
