@@ -138,7 +138,6 @@ a:visited {
   display: inline-block;
   border-radius: 50px;
   position: relative;
-  margin-left: 15px;
   margin-top: 15px;
   padding: 10px;
 }
@@ -159,7 +158,8 @@ BODY*/
   display: inline-block;
   margin-top: 150px;
   margin-left: 18%;
-  height: 600px;
+/*  height: 600px;*/
+  margin-bottom: 11%;
 }
 .title {
   background-color: transparent;
@@ -373,7 +373,7 @@ BODY*/
   width: 800px;
   margin-left: 10px;
   margin-top: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   display: inline-block;
   overflow-y: scroll;
 }
@@ -452,8 +452,9 @@ BODY*/
 }
 .right-content {
   display: inline-block;
+  position: relative;
   vertical-align: top;
-  margin: 40px;
+  margin: 20px;
 }
 .searchbar-rectangle-explore {
   background-color: var(--cararra);
@@ -503,6 +504,7 @@ BODY*/
 }
 .results-image {
   position: relative;
+  display: inline-block;
   float: left;
   width: 100px;
   margin: 20px;
@@ -535,6 +537,78 @@ BODY*/
   margin: 20px;
   padding: 15px;
   width: 400px;
+}
+
+
+
+
+
+/*RESEARCHER PAGE*/
+.background-grey-researcher {
+  background-color: var(--cararra);
+  border-radius: 30px;
+  position: relative;
+  width: 50%;
+  margin: 20px;
+  margin-bottom: 30px;
+  display: inline-block;
+  overflow-y: scroll;
+  float: left;
+}
+.right-content-researcher {
+  display: inline-block;
+  position: relative;
+  vertical-align: top;
+  margin: 20px;
+}
+.results {
+  display: inline-block;
+}
+.results-image {
+  position: relative;
+  display: inline-block;
+  float: left;
+  width: 100px;
+  margin: 20px;
+}
+.results-name {
+  position: relative;
+  float: left;
+  text-decoration: underline;
+  margin-top: 20px;
+}
+.info-1 {
+  display: inline-block;
+  position: relative;
+  float: left;
+}
+.info-2 {
+  display: inline-block;
+  position: relative;
+  float: right;
+
+}
+.results-content {
+  position: relative;
+  display: block;
+  padding: 10px;
+  margin: 10px;
+}
+.contact {
+  background-color: white;
+  border-radius: 30px;
+  position: relative;
+  padding: 10px;
+  margin: 20px;
+  float: right;
+}
+.back-to-search {
+  background-color: var(--cararra);
+  border-radius: 30px;
+  position: relative;
+  float: left;
+  padding: 10px;
+  margin: 20px;
 }
 
 
