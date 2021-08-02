@@ -52,10 +52,9 @@ a:visited {
   border-radius: 20px;
   margin-left: 20px;
   margin-right: 20px;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   position: relative;
   overflow-y: scroll;
-  overflow-x: hidden;
 }
 .header {
   display: inline-block;
@@ -112,11 +111,11 @@ a:visited {
 .settings {
   display: none;
   position: absolute;
-  margin-top: 15px;
+  margin-top: 14px;
+  right: 0px !important;
   background-color: #ececec;
   border-radius: 0px 0px 20px 20px;
-  width: 105px;
-  z-index: 1;
+  width: 102px;
 }
 .settings button {
   display: block;
@@ -135,7 +134,6 @@ a:visited {
   margin-right: 20px;
   top: 41px;
   border-radius: 20px 20px 0px 0px;
-  z-index: 1;
 }
 .uofa-rectangle {
   background-color: black;
@@ -149,7 +147,7 @@ a:visited {
 }
 .footer {
   display: block;
-  position: fixed;
+  position: relative;
   clear: both;
   bottom: 10px;
   margin-left: 20px;
@@ -165,7 +163,7 @@ HOME BODY*/
   display: inline-block;
   margin-top: 5%;
   margin-left: 20%;
-  margin-bottom: 5%;
+  margin-bottom: 10%;
 }
 .title {
   background-color: transparent;
@@ -184,7 +182,7 @@ HOME BODY*/
   line-height: 20px;
   position: relative;
   text-align: left;
-  width: 16.5%;
+  width: 775px;
 }
 .info-button {
   color: white;
@@ -226,8 +224,8 @@ HOME BODY*/
   padding: 12.5px;
 }
 .ui-dialog {
-  background-color: black;
-  color: WHITE;
+  background-color: var(--cararra);
+  color: black;
   position: relative;
   z-index: 1;
   border-radius:30px;  
@@ -235,13 +233,14 @@ HOME BODY*/
   padding: 20px;
   left: 20PX;
   line-height: 20px;
+
 }
 .ui-dialog-title {
   font-size: 125%;
   text-decoration: underline;
 }
 .ui-dialog-titlebar {
-  background-color: black;
+  background-color: var(--cararra);
   margin-bottom: 10px;
 }
 .ui-dialog-titlebar-close {
@@ -254,10 +253,10 @@ HOME BODY*/
 .ui-dialog .ui-dialog-titlebar .ui-dialog-titlebar-close {
   background: url("img/close.png") no-repeat center;
   border: none;
-  color: white;
-  background-color: black;
+  color: black;
+  background-color: var(--cararra);
 }
-#opener {
+#opener, #opener2 {
   cursor: pointer;
 }
 
@@ -309,11 +308,11 @@ HOME BODY*/
 /*KEYWORD SEARCH BOX*/
 .scrolling {
   overflow-x: scroll;
-  overflow-y: hidden;
+  overflow-y: visible;
   mix-blend-mode: normal;
   white-space: nowrap;
   position: relative;
-  width: 16%;
+  width: 775px;
   height: 150px;
 }
 #inline-scrolling {
@@ -411,7 +410,7 @@ HOME BODY*/
   border-radius: 30px;
   height: 500px;
   position: relative;
-  width: 700px;
+  width: 600px;
   margin-left: 20px;
   margin-top: 10px;
   margin-bottom: 20px;
@@ -496,7 +495,8 @@ HOME BODY*/
   display: inline-block;
   position: relative;
   vertical-align: top;
-  margin: 20px;
+  margin-left: 20px;
+  margin-top: 5px;
 }
 .searchbar-rectangle-explore {
   background-color: var(--cararra);
@@ -531,12 +531,12 @@ HOME BODY*/
 }
 .scrolling-explore {
   overflow-x: scroll;
-  overflow-y: hidden;
+  overflow-y: visible;
   white-space: nowrap;
   position: relative;
   display: inline-block;
   height: 150px;
-  width: 11%;
+  width: 600px;
 }
 .info-rectangle-explore {
   background-color: black;
@@ -544,7 +544,8 @@ HOME BODY*/
   text-align: center;
   border-radius: 20px;
   position: relative;
-  display: inline-block;
+  display: block;
+  clear: both;
   margin: 10px;
   padding: 12.5px;
   z-index: 1;
@@ -674,7 +675,6 @@ HOME BODY*/
   display: inline-block;
   position: relative;
   margin: 20px;
-  float: right;
   vertical-align: top;
 }
 .related-scroll {
