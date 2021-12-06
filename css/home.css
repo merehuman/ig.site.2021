@@ -55,6 +55,7 @@ a:visited {
   margin-bottom: 20px;
   position: relative;
   overflow-y: scroll;
+
 }
 .header {
   display: inline-block;
@@ -98,6 +99,17 @@ a:visited {
   position: relative;
   margin-top: 15px;
   padding: 10px;
+}
+.login-rectangle {
+  background-color: white;
+  color: black;
+  position: relative;
+  display: inline-block;
+  float: right;
+  border-radius: 50px;
+  margin-top: 15px;
+  padding: 10px;
+  margin-right: 20px;
 }
 .dropdown {
   position: relative;
@@ -214,8 +226,8 @@ HOME BODY*/
   padding: 12.5px;
 }
 .keyword-rectangle {
-  background-color: var(--cararra);
-  border-radius: 50px;
+ /* background-color: var(--cararra);
+  border-radius: 50px;*/
   cursor: pointer;
   height: 40px;
   position: relative;
@@ -224,8 +236,8 @@ HOME BODY*/
   padding: 12.5px;
 }
 .ui-dialog {
-  background-color: var(--cararra);
-  color: black;
+  background-color: black;
+  color: white;
   position: relative;
   z-index: 1;
   border-radius:30px;  
@@ -240,13 +252,13 @@ HOME BODY*/
   text-decoration: underline;
 }
 .ui-dialog-titlebar {
-  background-color: var(--cararra);
+  background-color: black;
   margin-bottom: 10px;
 }
 .ui-dialog-titlebar-close {
   float: right;
   position: relative;
-  color: WHITE;
+  color: white;
   font-size: 14px;
   text-decoration: none;
 }
@@ -411,6 +423,7 @@ HOME BODY*/
   height: 500px;
   position: relative;
   width: 600px;
+  width: 700px;
   margin-left: 20px;
   margin-top: 10px;
   margin-bottom: 20px;
@@ -550,6 +563,7 @@ HOME BODY*/
   padding: 12.5px;
   z-index: 1;
   bottom: 10px;
+/*  width: 11%;*/
 }
 
 
@@ -614,7 +628,7 @@ HOME BODY*/
   display: inline-block;
   position: relative;
   vertical-align: top;
-  margin: 20px;
+  margin-left: 20px;
 }
 .results {
   display: inline-block;
@@ -656,20 +670,19 @@ HOME BODY*/
 }
 .contact {
   background-color: white;
-  border-radius: 30px;
+  border-radius: 50px;
   position: relative;
-  padding: 10px;
+  padding: 12.5px;
   margin: 20px;
   float: right;
 }
 .back-to-search {
   background-color: var(--cararra);
-  border-radius: 30px;
+  border-radius: 50px;
   position: relative;
-  float: left;
   display: inline-block;
-  padding: 10px;
-  margin: 20px;
+  padding: 12.5px;
+/*  margin: 20px;*/
 }
 .explore-related {
   display: inline-block;
